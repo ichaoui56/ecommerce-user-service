@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: ecommerce-user-service
+
+  cloud:
+    config:
+      enabled: false
